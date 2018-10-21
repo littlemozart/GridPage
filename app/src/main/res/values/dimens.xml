@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+</resources>
